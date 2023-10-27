@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\Guillermo\Documents\LSC Guiga\Noveno Semestre\Servicios Web\Practica5_Guiga\Ejercicio1.xsl"?>
+<celulares>
+<celular>
+    <marca>Motorola g84</marca>
+    <precio>$6,000</precio>
+    <color>Azul</color>
+</celular>
+<celular>
+    <marca>Samsung Galaxi S23</marca>
+    <precio>$13,000</precio>
+    <color>Morado</color>
+</celular>
+<celular>
+    <marca>OPPO Reno 7</marca>
+    <precio>$7,500</precio>
+    <color>Negro</color>
+</celular>
+<celular>
+    <marca>HONOR 70</marca>
+    <precio>$12,000</precio>
+    <color>Verde</color>
+</celular>
+</celulares>
